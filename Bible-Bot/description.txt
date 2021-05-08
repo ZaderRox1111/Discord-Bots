@@ -1,0 +1,1 @@
+Bible Bot that responds to swears and slurs with a bible verse.
